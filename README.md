@@ -7,7 +7,7 @@
      Categorical fields ( # populated, # unique values, most common field value
   3. The distribution of each fields
 
-For more details, please check out the "Credit cards transaction DQR Report.docx" file, and 'EDA.ipynb'
+For more details, please check out the "Credit cards transaction DQR Report.docx" file, and '1 EDA.ipynb'
 
 ## Data Cleaning and Data Engineering
 For the coding detail, please check out "2 Data Cleaning and Engineering.ipynb"
